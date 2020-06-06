@@ -12,7 +12,7 @@
   "author": "Alberto Padron",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.6.2",
+    "apollo-server": "^2.14.2",
     "firebase-admin": "^8.0.0",
     "graphql": "^14.3.1",
     "graphql-import": "^0.7.1",
